@@ -3,3 +3,4 @@ matplotlib
 requests
 timm
 peft
+scikit-learn
